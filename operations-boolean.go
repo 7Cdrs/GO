@@ -15,4 +15,5 @@ func main() {
 	fmt.Println("Apakah siswa lulus absensi?", LulusAbsensi)
 	fmt.Println("Apakah siswa lulus semua syarat?", Lulus)
 
+
 }
